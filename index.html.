@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    window.onload = function() {
+      window.top.location.href = "https://youtube.com"; 
+    };
+  </script>
+</head>
+<body></body>
+</html>
